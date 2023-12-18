@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154493990536",
+    "project_id": "kutuphaneotomasyon-e338c",
+    "storage_bucket": "kutuphaneotomasyon-e338c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154493990536:android:583ad0f1b51a3352b0d13d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsePlP-ccPNYiyfpefB3CQ3JgfAwE37ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
